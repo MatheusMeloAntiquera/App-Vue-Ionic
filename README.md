@@ -1,4 +1,4 @@
-# my-vue-app
+# App-Vue-Ionic
 
 ## Project setup
 ```
