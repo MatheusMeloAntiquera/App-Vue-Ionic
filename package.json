@@ -10,20 +10,20 @@
   "dependencies": {
     "@ionic/vue": "0.0.4",
     "axios": "^0.18.0",
-    "core-js": "^2.6.5",
+    "core-js": "^2.6.9",
     "register-service-worker": "^1.6.2",
     "vue": "^2.6.10",
-    "vue-class-component": "^7.0.2",
-    "vue-property-decorator": "^8.1.0",
+    "vue-class-component": "^7.1.0",
+    "vue-property-decorator": "^8.1.1",
     "vue-router": "^3.0.3",
-    "vuex": "^3.0.1"
+    "vuex": "^3.1.1"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.7.0",
-    "@vue/cli-plugin-pwa": "^3.7.0",
-    "@vue/cli-plugin-typescript": "^3.7.0",
-    "@vue/cli-service": "^3.7.0",
-    "typescript": "^3.4.3",
+    "@vue/cli-plugin-babel": "^3.8.0",
+    "@vue/cli-plugin-pwa": "^3.8.0",
+    "@vue/cli-plugin-typescript": "^3.8.1",
+    "@vue/cli-service": "^3.8.0",
+    "typescript": "^3.5.1",
     "vue-template-compiler": "^2.5.21"
   },
   "postcss": {
